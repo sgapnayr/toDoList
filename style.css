@@ -79,7 +79,8 @@ form button:hover {
 }
 
 input {
-    padding: 0rem .25rem;
+    padding: .5rem;
+    text-align: center;
     border-bottom-left-radius: 5px;
     border-top-left-radius: 5px;
     text-shadow: 1px 1px 10px rgba(0, 0, 0, 0.2);
